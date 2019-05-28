@@ -1,3 +1,25 @@
+Инстаграм на Реакте и разбираемся, как учить эту библиотеку
+
+https://www.youtube.com/watch?v=a-s5sTwWVBM
+
+https://www.npmjs.com/package/create-react-app
+https://facebook.github.io/create-react-app/docs/getting-started
+
+
+https://www.youtube.com/watch?v=mkjLjr0dOfo
+
+json-server
+https://github.com/typicode/json-server
+
+
+роутер начиная с ~45min
+https://www.youtube.com/watch?v=VPbhZFYZ7BQ
+
+https://reacttraining.com/react-router/web/guides/quick-start
+устанавливать в папку src 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
